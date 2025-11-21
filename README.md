@@ -1,3 +1,10 @@
+<div align="center">
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/codediaz/codediaz/output/github-contribution-grid-snake.svg" />
+  <br/>
+</div>
+
+
 <h1 align="center">Hi 👋, I'm Pasindu Nirmal Hewage</h1>
 <h3 align="center">A passionate Robotics and AI Engineer from Sri Lanka</h3>
 
@@ -23,14 +30,17 @@
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=pasinirmal&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
+  <img align="center" src = "https://github-readme-stats.vercel.app/api?username=pasinirmal&&show_icons=true&title_color=02D752&icon_color=bb2acf&text_color=b3b3ff&bg_color=0,000000,130F40">
+
+<hr style="height:2px;border-width:1;border-radius: 5px;color:gray;background-color:#8080ff">
   
 </td>
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=pasinirmal&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+<a href="https://github.com/pasinirmal">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasinirmal&hide=ASP.NET,jupyter%20notebook&theme=dark&hide_langs_below=1" height="220px"/>
+  </a>
   
   </td>
 </tr>
